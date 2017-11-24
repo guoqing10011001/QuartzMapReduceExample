@@ -1,0 +1,6 @@
+d:\documents\visual studio 2015\Projects\MapReduceKeny\MapReduceKeny\bin\Debug\MapReduceKeny.dll
+d:\documents\visual studio 2015\Projects\MapReduceKeny\MapReduceKeny\bin\Debug\MapReduceKeny.pdb
+d:\documents\visual studio 2015\Projects\MapReduceKeny\MapReduceKeny\bin\Debug\SqlSugar.dll
+d:\documents\visual studio 2015\Projects\MapReduceKeny\MapReduceKeny\obj\Debug\MapReduceKeny.dll
+d:\documents\visual studio 2015\Projects\MapReduceKeny\MapReduceKeny\obj\Debug\MapReduceKeny.pdb
+d:\documents\visual studio 2015\Projects\MapReduceKeny\MapReduceKeny\obj\Debug\MapReduceKeny.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Test.exe
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Test.pdb
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\MapReduceKeny.dll
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\SqlSugar.dll
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\MapReduceKeny.pdb
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\obj\Debug\Test.exe
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\obj\Debug\Test.pdb
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Common.Logging.dll
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Quartz.dll
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Common.Logging.pdb
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Common.Logging.xml
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Quartz.pdb
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Quartz.xml
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Test.exe.config
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Common.Logging.Core.dll
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Common.Logging.Core.pdb
+d:\documents\visual studio 2015\Projects\MapReduceKeny\Test\bin\Debug\Common.Logging.Core.xml
